@@ -6,7 +6,7 @@ This repository contains the code and supplementary material for the paper
 The work uses Neural Tangent Kernel (NTK) analysis to study how neural-network
 architecture, physical stiffness, timescale separation, and loss weighting
 affect the training of physics-informed machine-learning surrogates for
-power-system dynamics.
+power-system dynamics. The code will be uploaded upon acceptance.
 
 The repository includes:
 
